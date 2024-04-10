@@ -42,7 +42,7 @@ if __name__ == '__main__':
     bias_input_to_hidden = np.zeros((20, 1))
     bias_hidden_to_output = np.zeros((10, 1))
 
-    epochs = 10
+    epochs = 1000
     e_loss = 0
     e_correct = 0
     learning_rate = 0.01

@@ -1,7 +1,7 @@
 screen_wh = w, h = 983, 983
 screen_gui = w_gui, h_gui = 300, 0
 screen_main = w + w_gui, h + h_gui
-title = 'What number? 0.0v'
+title = 'What number? 1.0v'
 fps = 120
 
 COL_YACHE = 28
